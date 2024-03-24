@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711207395 source:e:\codeblocks_project\juzhen_youhua\main.cpp
+	<iostream>
+	<windows.h>
+
